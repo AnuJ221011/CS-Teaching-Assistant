@@ -50,7 +50,7 @@ const CSTeachingAssistant = () => {
         content: msg.content,
       }));
 
-      const response = await fetch('http://localhost:5000/api/chat', {
+      const response = await fetch('https://cs-teaching-assistant.vercel.app/api/chat', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({
