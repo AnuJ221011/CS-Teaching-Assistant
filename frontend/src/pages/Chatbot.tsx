@@ -134,7 +134,7 @@ const CSTeachingAssistant = () => {
     { icon: <Code className="w-4 h-4" />, label: 'Data Structures', query: 'Explain binary trees with examples' },
     { icon: <Database className="w-4 h-4" />, label: 'DBMS', query: 'What is database normalization?' },
     { icon: <Cpu className="w-4 h-4" />, label: 'Operating Systems', query: 'Explain process scheduling algorithms' },
-    { icon: <Globe className="w-4 h-4" />, label: 'Networks', query: 'How does TCP/IP work?' },
+    { icon: <Globe className="w-4 h-4" />, label: 'Computer Networks', query: 'What happens when we hit a URL in the browser?' },
     { icon: <Settings className="w-4 h-4" />, label: 'Full Stack Development', query: 'Explain MERN stack' },
     { icon: <ChartBar className="w-4 h-4" />, label: 'Machine Learning', query: 'What is supervised learning?' },
     { icon: <ChartPie className="w-4 h-4" />, label: 'Data Analysis', query: 'Explain data visualization' },
